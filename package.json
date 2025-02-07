@@ -5,6 +5,8 @@
   "private": true,
   "author": "RedQ",
   "workspaces": [
+    "api/rest",
+    "api/graphql",
     "admin/*",
     "shop"
   ],
